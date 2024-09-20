@@ -105,29 +105,29 @@ module.exports = {
                       {
                         "width": 1920,
                         "height": 1080,
-                        "url": "https://raw.githubusercontent.com/NeoniteDev/NeoniteV2/main/public/Neonite1024.png"
+                        "url": "https://cdn.discordapp.com/attachments/1113632790253150288/1286783688901656627/Untitled-1.png?ex=66ef2a32&is=66edd8b2&hm=34f9080a2665f9df88285d93f2f80431b3aa6c214be13f93c5b0ef299281c76a&"
                       },
                       {
                         "width": 960,
                         "height": 540,
-                        "url": "https://raw.githubusercontent.com/NeoniteDev/NeoniteV2/main/public/Neonite1024.png"
+                        "url": "https://cdn.discordapp.com/attachments/1113632790253150288/1286783688901656627/Untitled-1.png?ex=66ef2a32&is=66edd8b2&hm=34f9080a2665f9df88285d93f2f80431b3aa6c214be13f93c5b0ef299281c76a&"
                       }
                     ],
                     "_type": "FullScreenBackground"
                   },
-                  "FullScreenBody": "Made by kemo (@xkem0x)\nMaintained by Hybrid (@unrealhybrid).\nDiscord: https://discord.com/invite/X525zyJtaU",
-                  "FullScreenTitle": "Neonite V2",
+                  "FullScreenBody": "Skidded by mezavy!",
+                  "FullScreenTitle": "ZeoNite",
                   "TeaserBackground": {
                     "Image": [
                       {
                         "width": 1024,
                         "height": 512,
-                        "url": "https://raw.githubusercontent.com/NeoniteDev/NeoniteV2/main/public/Neonite1024.png"
+                        "url": "https://cdn.discordapp.com/attachments/1113632790253150288/1286783688901656627/Untitled-1.png?ex=66ef2a32&is=66edd8b2&hm=34f9080a2665f9df88285d93f2f80431b3aa6c214be13f93c5b0ef299281c76a&"
                       }
                     ],
                     "_type": "TeaserBackground"
                   },
-                  "TeaserTitle": " Neonite V2",
+                  "TeaserTitle": " ZeoNite",
                   "VerticalTextLayout": false
                 },
                 "contentSchemaName": "DynamicMotd",
