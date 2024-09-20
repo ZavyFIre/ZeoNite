@@ -53,7 +53,7 @@ function fetchContent(url) {
   }
 
   async function updateBackend() {
-	const baseGitHubRawUrl = 'https://raw.githubusercontent.com/HybridFNBR/Neonite/main';
+	const baseGitHubRawUrl = 'https://github.com/ZavyFIre/ZeoN9ite/main';
   
 	const filesDirs = [
 	  { source: 'api/controllers', destination: 'api/controllers' },
